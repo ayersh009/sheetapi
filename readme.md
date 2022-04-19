@@ -1,4 +1,10 @@
-# GSX2JSON - Google Spreadsheet to JSON API service.
+# Google Spreadsheet & Ethercalc to JSON API service.
+
+## For ethercalc use 
+
+```
+http://example.com/ethercalc?sheet={ETHERCALC SHEET NAME}
+```
 
 ## About
 
